@@ -2,7 +2,7 @@
 
 Welcome to the [SimonRim Character Builds Wiki](https://github.com/rusalka9/simonrim-character-builds/wiki)! This is a community project for creating and sharing character builds for the [SimonRim suite of Skyrim mods](https://www.nexusmods.com/skyrimspecialedition/users/67410746?tab=user+files) (Adamant, Mysticism, Thaumaturgy, etc.). If you're looking for a build for your next Skyrim playthrough or want to share a fun build with others, this is the place to do so!
 
-Editing this wiki is open to anyone (with a free GitHub account)! You don't need to ask first, you can just right into sharing your [[builds|Character Builds List]], [[tips and tricks|Tips and Tricks]], or [[mod recommendations|Recommended Mods and Modlists]]. You can also post on the [Discussions](https://github.com/rusalka9/simonrim-character-builds/discussions) if you have a question or comment.
+Editing this wiki is open to anyone (with a free GitHub account)! You don't need to ask first, you can jump right into sharing your builds, tips and tricks, or mod recommendations. You can also post on the [Discussions](https://github.com/rusalka9/simonrim-character-builds/discussions) if you have a question or comment.
 
 ## Rules
 1. **Be Respectful** - No harassment, racism, sexism, transphobia, or other hateful conduct. 
